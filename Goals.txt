@@ -1,11 +1,8 @@
 Ongoing:
-1)Breaking the programs into subroutines
-2)Writing code for Newton Raphson and modifing Muller method
-3)Start a LaTeX file
+1)Updating LaTeX report
+2)Solving and reading Sebastian Mizera notes (arXiv:2306.05395)
+3)Writing code for Pade approximation
 
 To do before next meeting:
 1)f(x) = (x-4+i)(x+5-2i)sqrt(x)
-2)Design a new function my square root with branch cut on the positive real axis.
-3)Read these two papers
-	1) arXiv no:2306.05395
-	2) arXiv no:2011.02542 (section 1,2,8.4)
+3)Read arXiv no:2011.02542 (section 1,2,8.4)
