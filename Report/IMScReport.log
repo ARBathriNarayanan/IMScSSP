@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.5.15)  30 MAY 2024 07:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.5.15)  30 MAY 2024 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -232,23 +232,31 @@ t.toc)
 
  [1
 
+]
+Chapter 1.
+(./IMScReport.bbl [2
+
+]) [3
+
 ] (./IMScReport.aux) ) 
 Here is how much of TeX's memory you used:
- 2599 strings out of 477985
- 40001 string characters out of 5839380
+ 2615 strings out of 477985
+ 40212 string characters out of 5839380
  1851388 words of memory out of 6000000
- 22810 multiletter control sequences out of 15000+600000
- 513797 words of font info for 37 fonts, out of 8000000 for 9000
+ 22821 multiletter control sequences out of 15000+600000
+ 515364 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,5n,62p,227b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on IMScReport.pdf (2 pages, 273315 bytes).
+s/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on IMScReport.pdf (4 pages, 314985 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
